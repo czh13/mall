@@ -29,19 +29,19 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 项目效果图
-https://github.com/czh13/mall/blob/main/1.png
+![1](https://github.com/czh13/mall/blob/main/1.png)
 
-https://github.com/czh13/mall/blob/main/2.png
+![1](https://github.com/czh13/mall/blob/main/2.png)
 
-https://github.com/czh13/mall/blob/main/3.png
+![1](https://github.com/czh13/mall/blob/main/3.png)
 
-https://github.com/czh13/mall/blob/main/4.png
+![1](https://github.com/czh13/mall/blob/main/4.png)
 
-https://github.com/czh13/mall/blob/main/5.png
+![1](https://github.com/czh13/mall/blob/main/5.png)
 
-https://github.com/czh13/mall/blob/main/6.png
+![1](https://github.com/czh13/mall/blob/main/6.png)
 
-https://github.com/czh13/mall/blob/main/7.png
+![1](https://github.com/czh13/mall/blob/main/7.png)
 
-https://github.com/czh13/mall/blob/main/8.png
+![1](https://github.com/czh13/mall/blob/main/8.png)
 
